@@ -1,2 +1,2 @@
 # markov-chains
-Simple sentence generator, based on Markov chain
+Simple sentence generator, based on Markov chais
